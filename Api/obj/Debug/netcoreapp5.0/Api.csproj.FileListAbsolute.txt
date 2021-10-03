@@ -1,0 +1,7 @@
+C:\Users\Ra1n\Desktop\EmailService\Api\obj\Debug\netcoreapp5.0\Api.csproj.AssemblyReference.cache
+C:\Users\Ra1n\Desktop\EmailService\Api\obj\Debug\netcoreapp5.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ra1n\Desktop\EmailService\Api\obj\Debug\netcoreapp5.0\Api.AssemblyInfoInputs.cache
+C:\Users\Ra1n\Desktop\EmailService\Api\obj\Debug\netcoreapp5.0\Api.AssemblyInfo.cs
+C:\Users\Ra1n\Desktop\EmailService\Api\obj\Debug\netcoreapp5.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Ra1n\Desktop\EmailService\Api\obj\Debug\netcoreapp5.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ra1n\Desktop\EmailService\Api\obj\Debug\netcoreapp5.0\Api.MvcApplicationPartsAssemblyInfo.cache
